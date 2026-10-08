@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mahi Uddin Ahmed 👋</h1>
+<h3 align="center">Website & E-commerce Developer · Shopify · WordPress/WooCommerce · Next.js</h3>
+<p align="center">I build websites and online stores that bring in customers, for businesses in Bangladesh, the UK and the US.</p>
 
-<!--
-**mahiuddin46/mahiuddin46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://mahiuddinahmed.com"><img src="https://img.shields.io/badge/Portfolio-mahiuddinahmed.com-10b981?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mahiuddinahmed"><img src="https://img.shields.io/badge/LinkedIn-Mahi%20Uddin%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:amahi2148@gmail.com"><img src="https://img.shields.io/badge/Email-amahi2148%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I build
+
+- **Online stores** on Shopify and WooCommerce: custom themes and Liquid sections, payments (bKash, Nagad, cards, Cash on Delivery), delivery zones and order flows
+- **Business websites** for clinics, restaurants, schools, real estate and service companies (WordPress, Wix Studio)
+- **Custom web apps** with Next.js / React, and admin panels, inventory and POS systems with Laravel
+- **Speed, SEO and tracking**: Core Web Vitals, on-page SEO, Meta Pixel and Google Analytics
+
+### 🚀 Live work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [MYNAH MART](https://mynahmart.com) | My own e-commerce brand in Bangladesh, built and run by me | Shopify |
+| [Royal User UK](https://royaluseruk.com) | Online store in Bangladesh for the Royal Khati food range: COD, delivery zones, showroom pickup, WhatsApp ordering, POS/ERP back office | WordPress · WooCommerce |
+| [mahiuddinahmed.com](https://mahiuddinahmed.com) | My portfolio | HTML · CSS · JavaScript |
+
+### 💡 How I work
+
+- I build from the store owner's side: I run my own stores, so I focus on what turns visitors into orders
+- Clear plan and timeline before I start, updates every few days, support after launch
+- Mobile-first and fast on 4G, because that is where your customers are
+
+### 🧰 Tech
+
+`Shopify` `Liquid` `WooCommerce` `WordPress` `Elementor` `Next.js` `React` `Laravel` `PHP` `JavaScript` `Tailwind CSS` `Wix Studio` `Framer`
+
+---
+
+<p align="center"><b>Planning a website or online store?</b> Email me at <a href="mailto:amahi2148@gmail.com">amahi2148@gmail.com</a> or visit <a href="https://mahiuddinahmed.com">mahiuddinahmed.com</a>.</p>
