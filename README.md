@@ -37,4 +37,12 @@
 
 ---
 
+### 📌 Latest post
+
+[![Shopify or WooCommerce?](https://mahiuddinahmed.com/social/q01-land.png)](https://www.linkedin.com/feed/update/urn:li:activity:7514258749889540096/)
+
+**Shopify or WooCommerce?** I run one store on each, so here is the honest comparison — and the two things that matter more than the platform. [Read the post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7514258749889540096/)
+
+---
+
 <p align="center"><b>Planning a website or online store?</b> Email me at <a href="mailto:amahi2148@gmail.com">amahi2148@gmail.com</a> or visit <a href="https://mahiuddinahmed.com">mahiuddinahmed.com</a>.</p>
